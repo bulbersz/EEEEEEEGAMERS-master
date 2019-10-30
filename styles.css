@@ -1,0 +1,76 @@
+.navbar {
+  background-color: hsla(270, 100%, 0%, 1);
+  position: sticky;
+
+}
+
+
+
+.collapse .navbar-collapse {
+  background-color: hsla(270, 100%, 0%, 1);
+  color: hsla(105, 100%, 50%)
+}
+
+.btn.btn-outline-success {
+  background-color: hsla(105, 100%, 0%, 1);
+  color: hsla(105, 100%, 50%, 1);
+  font-family: Righteous;
+  font-size: 22px;
+  border: 0px;
+  text-transform: uppercase;
+
+}
+
+
+
+.nav-item .active li {
+  background-color: hsla(270, 100%, 50%, 1);
+  color: hsla(270, 100%, 50%, 1);
+}
+
+.bg-dark {
+  background-color: hsla(270, 100%, 0%, 1);
+}
+
+.nav-item {
+  font-size: 20px;
+  border-left: 1px solid hsla(105, 100%, 50%, 2);
+  padding-left: 30px;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.nav-item-logo {
+  padding-right:
+}
+
+.BODYY {
+  background-color: hsla(360, 100%, 0%, 1);
+}
+
+.horizontalbreakgreen {
+  background-color: hsla(105, 100%, 50%, 1);
+  color: hsla(105, 100%, 50%, 1);
+}
+
+.flex-container {
+  display:flex;
+  height: 200px;
+  align-items: center;
+}
+
+.carousel-inner {
+  height: 55vh;
+}
+
+.carousel-inner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  max-height: 800px;
+  width: inherit;
+}
