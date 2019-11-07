@@ -74,3 +74,7 @@
   max-height: 800px;
   width: inherit;
 }
+.carousel-item {
+  max-height: 800px;
+  background-size: cover;
+}
