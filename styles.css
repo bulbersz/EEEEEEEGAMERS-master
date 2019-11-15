@@ -77,4 +77,7 @@
 .carousel-item {
   max-height: 800px;
   background-size: cover;
+  height: 50%;
+  width: 50%;
+
 }
